@@ -1,5 +1,5 @@
 {
-  "description": "Just a website for detailing the game development projects of Lua",
+  "description": "Just a website for detailing the game/software/api development projects of Lua",
   "owner": {
     "username": "notxlua",
     "email": "notxlua@gmail.com",
@@ -7,6 +7,6 @@
   },
 
   "record": {
-    "A": ["75.119.201.51"]
+    "A": ["69.163.194.55"]
   }
 }
